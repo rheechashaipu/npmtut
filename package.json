@@ -1,14 +1,14 @@
 {
   "name": "@rheechashaipu/npmtut",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "repository": "https://github.com/rheechashaipu/npmtut",
   "scripts": {
     "test": "node test.js"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
